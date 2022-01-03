@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    background-color: chartreuse;
+    font-size: 64px;
+}
+.relinks{
+    font-size: 32px;
+    color: lightskyblue;
+}
+body{
+    background-color: rgb(185, 181, 181);
+}
+.relinks a{
+    color: rgb(89, 0, 255);
+}
